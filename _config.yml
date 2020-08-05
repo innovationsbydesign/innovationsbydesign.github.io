@@ -1,1 +1,11 @@
+
+title: Innovations By Design, Inc
+email: support@innovationsbydesign.org
+description: >- # this means to ignore newlines until "baseurl:"
+ Welcome to the Innovations By Design blog site.  Stay tuned for more coding samples in JavaScript, .Net 
+ and Mobile development.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gogadgetgal
+github_username:  innovationsbydesign
 theme: jekyll-theme-cayman
